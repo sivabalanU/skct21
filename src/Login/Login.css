@@ -1,0 +1,19 @@
+.sub{
+   background-color: blue;
+   color: white;
+   border: none;
+   border-radius: 5px;
+   padding: 4px;
+   margin-right: 30px;
+   
+}
+.back{
+   color:white;
+   background-color: black;
+   border: none;
+   border-radius: 5px;
+   padding: 5px;
+}
+.background{
+   background-color:aqua;
+}
